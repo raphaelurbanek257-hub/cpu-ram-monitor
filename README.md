@@ -19,7 +19,6 @@ A lightweight, real-time system monitor for your terminal. Shows CPU and RAM usa
 ### Option 1: Using pip (recommended)
 
 ```bash
-pip install psutil
-https://github.com/raphaelurbanek257-hub/system-monitor
-cd system-monitor
+git clone https://github.com/raphaelurbanek257-hub/desktop.git
+cd desktop
 python monitor.py
