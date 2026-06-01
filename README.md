@@ -20,6 +20,6 @@ A lightweight, real-time system monitor for your terminal. Shows CPU and RAM usa
 
 ```bash
 pip install psutil
-git clone https://github.com/raphaelurbanek257-hub/system-monitor.git
+https://github.com/raphaelurbanek257-hub/system-monitor
 cd system-monitor
 python monitor.py
